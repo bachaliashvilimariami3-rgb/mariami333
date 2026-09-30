@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>svaneti</title>
+</head>
+<body> 
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<main> 
+    <section>
+ <h1>svaneti</h1>
+ <p> welcome!svaneti is my favourite region with its unique nature and culture.</p>
+ <!-- image of this region-->
+ <img src="svaneti.jpg" alt="Svaneti">
+ <h2>about the region</h2>
+ <p>svaneti is distinguished by its historical towers, high mountains, and attractive landscapes.</p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/ugHQJkl0xdU" title="youtube video player"
+ frameborder="0" allowfullscreen></iframe>
+ </section><section>
+ <h3>Contact Information</h3>
+ <p>Email: mariami@gmail.com</p>
+ </section><section>
+ <h3>General Information</h3>
+ <p>svaneti is a beautiful region in Georgia with a rich history and stunning natural scenery.</p>
+ </section><section>
+ <h4>additional details</h4>
+ <p>this is a simple website dedictaed to my favourite place.</p>
+ </section><section>
+ <h5>More Information</h5>
+ <p>This is even more information about me.</p>
+ </section><section> 
+ <h6>Final Thoughts</h6>
+ <p>These are my final thoughts.</p>
+ <p>Thank you for visiting my website!</p>
+ </section>
+</main>
+</body>
+</html>
